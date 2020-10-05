@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+  <title>Incline CSS Example</title>
+<meta charset = "utf-8">
+ </head>
+ 
+ <body style + "background-color:teal; color: white;">
+ 
+ <h1 style = "background-color: green; color: yellow;"> Inline CSS </h1>
+ 
+ <p>this paragraph inhertis the style appleid to the body tag </p>
+ 
+ </body>
+ </html>
+
+
+
+
+
+
+
+
